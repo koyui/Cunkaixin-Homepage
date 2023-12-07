@@ -49,11 +49,11 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: ACM
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
+        icon: ACM
+        icon_pack: academicons
       - name: Data Science
         description: ''
         percent: 100
