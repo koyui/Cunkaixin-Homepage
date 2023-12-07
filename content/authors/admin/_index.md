@@ -71,8 +71,8 @@ skills:
       - name: Piano
         description: ''
         percent: 90
-        icon: piano-keyboard
-        icon_pack: fas
+        icon: 
+        icon_pack: ggpiano
       - name: JPop
         description: ''
         percent: 70
