@@ -189,11 +189,6 @@ sections:
         postcode: '201210'
         country: China
         country_code: CN
-      contact_links:
-        - name: bilibili
-          link: '[https://space.bilibili.com/273190886]'
-        - name: QQ
-          description: 2174656630
       # Automatically link email and phone or display as text?
       autolink: true
     design:
