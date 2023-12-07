@@ -160,25 +160,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: collection
     content:
       title: Recent Publications
@@ -193,60 +174,21 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        The following is my contact information, anything you can feel free to contact me!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: shanzw2022@shanghaitech.edu.cn
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        street: 浦东新区华夏中路393号
+        city: Shanghai
+        postcode: '201210'
+        country: China
+        country_code: CN
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
