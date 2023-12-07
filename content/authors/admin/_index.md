@@ -89,5 +89,4 @@ skills:
 highlight_name: true
 --- I am an undergraduate student from ShanghaiTech University, majoring in Computer Science. 
 I am currently studying computer vision and is also active as an information competition contestant(ACM/ICPC/NOIP). 
-I have a wide range of interests and I am looking forward to making new friends.
 {style="text-align: justify;"}
