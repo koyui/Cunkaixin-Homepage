@@ -116,6 +116,21 @@ sections:
           description: ''
           organization: ICPC Hangzhou Regional Contest
           title: Bronze Medal
+        - date_end: ''
+          date_start: '2020'
+          description: ''
+          organization: CCF
+          title: NOIP First Prize, LiaoNing Province
+        - date_end: ''
+          date_start: '2020'
+          description: ''
+          organization: CCF
+          title: CSP-S First Prize, LiaoNing Province
+        - date_end: ''
+          date_start: '2019'
+          description: ''
+          organization: CCF
+          title: CSP-S First Prize, LiaoNing Province
     design:
       columns: '2'
   - block: collection
