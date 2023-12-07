@@ -68,20 +68,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Piano
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: piano
         icon_pack: fas
-      - name: Cats
+      - name: JPop
         description: ''
         percent: 100
-        icon: cat
+        icon: music
         icon_pack: fas
-      - name: Photography
+      - name: Civilization
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: game
         icon_pack: fas
 
 
