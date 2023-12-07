@@ -70,12 +70,12 @@ skills:
     items:
       - name: Piano
         description: ''
-        percent: 60
-        icon: piano-keyboard
+        percent: 90
+        icon: piano
         icon_pack: fa
       - name: JPop
         description: ''
-        percent: 100
+        percent: 70
         icon: music
         icon_pack: fas
       - name: Civilization
