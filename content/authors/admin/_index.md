@@ -51,19 +51,19 @@ skills:
     items:
       - name: ACM
         description: ''
-        percent: 80
+        percent: 30
         icon: ACM
         icon_pack: academicons
-      - name: Data Science
+      - name: Computer Vision
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        percent: 15
+        icon: ...
+        icon_pack: ...
+      - name: Python & C++
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 15
+        icon: ...
+        icon_pack: ...
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
