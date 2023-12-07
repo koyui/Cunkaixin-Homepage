@@ -1,4 +1,4 @@
-<img width="253" alt="image" src="https://github.com/koyui/Cunkaixin-Homepage/assets/104041829/1ccc208b-0cfc-43bf-85f0-45caf51916ef">---
+---
 title: DiveIntoCHAIRSKingdom
 summary: Something messy to work with the CHAIRS dataset.
 tags:
