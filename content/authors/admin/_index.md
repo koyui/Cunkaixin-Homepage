@@ -71,8 +71,8 @@ skills:
       - name: Piano
         description: ''
         percent: 60
-        icon: piano
-        icon_pack: fas
+        icon: piano-keyboard
+        icon_pack: fa
       - name: JPop
         description: ''
         percent: 100
@@ -81,8 +81,8 @@ skills:
       - name: Civilization
         description: ''
         percent: 80
-        icon: game
-        icon_pack: fas
+        icon: gamepad
+        icon_pack: fa
 
 
 # Highlight the author in author lists? (true/false)
