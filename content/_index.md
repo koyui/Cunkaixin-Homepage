@@ -89,6 +89,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
+          date_start: '2024-02-06'
+          description: ''
+          organization: Mathematical Contest in Modeling
+          title: Honorable Mention
+        - date_end: ''
           date_start: '2023-11-27'
           description: ''
           organization: ICPC Hefei Regional Contest
