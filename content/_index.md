@@ -163,8 +163,8 @@ sections:
       text: test
       filters:
         folders:
-          - publication/conference-paper
-        exclude_featured: true
+          - publication
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
