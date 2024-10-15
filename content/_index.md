@@ -160,7 +160,6 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: test
       filters:
         folders:
           - publication
