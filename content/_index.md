@@ -160,10 +160,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Working with, stay tuned!
-        {{% /callout %}}
+      text: test
       filters:
         folders:
           - publication
