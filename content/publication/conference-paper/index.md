@@ -48,7 +48,7 @@ source_document: 'https://afterjourney00.github.io/IM-HOI.github.io/'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  filename: featured.gif
+  caption: ''
   focal_point: ''
   preview_only: false
 # Associated Projects (optional).
