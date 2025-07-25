@@ -60,12 +60,6 @@ sections:
           location: ShanghaiTech University
           date_start: '2023-09-05'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Running experiments
-              * Render graphs
-              * Calculate data
         - title: Team member
           company: Default(ACM/CCPC/ICPC)
           company_url: ''
